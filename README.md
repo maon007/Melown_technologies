@@ -1,5 +1,3 @@
-# Melown_technologies
-
 ### Description
 - In dataset.zip, there are images and their pixel-wise labels along with classes.json containing a class description.
 - The task is to explore the data and train a semantic segmentation model with these images.
